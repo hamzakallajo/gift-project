@@ -1,0 +1,46 @@
+.visit-torshov{
+background-image: url("images/mount.png");
+width: 100%;
+height: 50%;
+display: flex;
+flex-direction: column;
+justify-content: center;
+background-size: cover;
+align-items: center;
+margin: 0;
+}
+h1{
+    text-align: center;
+    margin: 0;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+#visit-text{color:white;
+    background-color: rgb(102, 127, 209);
+padding:10px 20px;
+border-radius: 10px;
+}
+
+#enjoy-text{
+color:white;
+background-color: rgb(24, 24, 82);
+padding:10px 20px;
+border-radius: 10px;
+font-size: 30px;
+}
+#mid-dev{
+    margin: 0;
+    background-color: beige;
+}
+.three-list-img{
+    width:150px;
+    height: 150px;
+    border-radius: 100px;
+}
+#three-list{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
